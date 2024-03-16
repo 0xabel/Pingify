@@ -37,4 +37,4 @@ yarn start
 
 ![Tasks](./assets/tasks.png)
 
-![Settings](./assets/settings)
+![Settings](./assets/settings.png)
